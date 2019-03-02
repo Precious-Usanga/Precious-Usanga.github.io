@@ -212,7 +212,7 @@ body, html {
 .section-4 {
     background-color: #F6F6F6;
 }
-.section-5 {
+#section-5 {
     background-image: url('hd-5.jpg');
     background-size: cover;
     background-attachment: fixed;
@@ -330,7 +330,7 @@ body, html {
     background-color: #F6F6F6;
     width: 100%;
 }
-.section-9 {
+#section-9 {
     background-image: url('hd-13.jpg');
     background-size: cover;
     background-attachment: fixed;
