@@ -96,23 +96,26 @@ body, html {
     color: #f3b007 !important;
     font-family: 'Rajdhani', sans-serif;
     font-size: 14px !important;
+    font-weight: 500;
     line-height: 2px;
     text-decoration: none;
+    position: relative;
+    top: -8px;
 }
 .vid-txt:hover {
     text-decoration: none;
 }
 .play-animation {
     position: relative;
-    top: -115px;
+    top: 80px;
     left: 165px;
 }
 .spinner-grow {
     width: 10rem;
     height: 10rem;
     position: absolute;
-    top: 23px;
-    left: 105px;
+    top: -50px;
+    left: 45px;
     display: inline-block;
     background-color: white;
     border-radius: 50%;
@@ -130,9 +133,8 @@ body, html {
 }
 }
 .fa5-icon3 {
-    position: absolute;
-    top: 75px;
-    left: 155px;
+    position: relative;
+    left: 15px;
     color: white;
     font-size: 40px;
 }
