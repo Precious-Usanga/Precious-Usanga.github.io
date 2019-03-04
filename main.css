@@ -132,11 +132,23 @@ body, html {
     opacity: .3;
 }
 }
+.spin-- {
+    position: absolute;
+    top: 40px;
+    left: 90px;
+}
 .fa5-icon3 {
     position: relative;
     left: 15px;
     color: white;
     font-size: 40px;
+}
+.fa5-icon4 {
+    position: relative;
+    top: -140px;
+    left: 130px;
+    color: white !important;
+    font-size: 40px !important;
 }
 .section-2 {
     background-color: #F6F6F6;
