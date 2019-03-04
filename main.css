@@ -134,8 +134,8 @@ body, html {
 }
 .spin-- {
     position: absolute;
-    top: 40px;
-    left: 90px;
+    top: 30px;
+    left: 100px;
 }
 .fa5-icon3 {
     position: relative;
@@ -145,8 +145,8 @@ body, html {
 }
 .fa5-icon4 {
     position: relative;
-    top: -140px;
-    left: 130px;
+    top: -155px;
+    left: 140px;
     color: white !important;
     font-size: 40px !important;
 }
