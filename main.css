@@ -111,15 +111,15 @@ body, html {
     left: 165px;
 }
 .spinner-grow {
-    width: 10rem;
-    height: 10rem;
+    width: 10rem !important;
+    height: 10rem !important;
     position: absolute;
     top: -50px;
     left: 45px;
     display: inline-block;
-    background-color: white;
-    border-radius: 50%;
-    opacity: .1;
+    background-color: white !important;
+    border-radius: 50% !important;
+    opacity: .1 !important;
     -webkit-animation: spinner-grow .80s linear infinite;
     animation: spinner-grow .80s linear infinite;
 }
@@ -253,6 +253,11 @@ body, html {
 .section-5-txt {
     font-weight: 700;
     font-family: 'Rajdhani', sans-serif;
+}
+.btn-warning{
+    color: white !important;
+    background-color: #e0a800 !important;
+    font-family: 'Rajdhani', sans-serif !important;
 }
 .text-s {
     font-size: 13px !important; 
